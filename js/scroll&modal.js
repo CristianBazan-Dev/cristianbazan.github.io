@@ -1,3 +1,6 @@
+window.location.href = "https://cristianbazan-dev.github.io/portfolio/" 
+
+
 // scroll
 
 window.addEventListener("scroll", reveal);
